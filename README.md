@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0w1150lon8fj24np?svg=true)](https://ci.appveyor.com/project/Watsupkin/patterns)
+[![Build status](https://ci.appveyor.com/api/projects/status/ciyef36kj21s8xy0?svg=true)](https://ci.appveyor.com/project/Watsupkin/money-transfer-test)
